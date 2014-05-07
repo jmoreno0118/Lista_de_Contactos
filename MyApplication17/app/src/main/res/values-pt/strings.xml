@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="action_settings">Definicoes</string>
+    <string name="app_name">Lista de Contatos</string>
+    <string name="hello_world">Ola Mundo!</string>
+
+</resources>
